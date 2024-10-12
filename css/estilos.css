@@ -28,3 +28,11 @@ nav li{
 nav ul   {
 	text-align: center;
 }
+/* PIE */
+footer {
+	background-color: white;
+	display: inline-block;
+	width: 100%;
+	color: black;
+	padding:5px;
+}
