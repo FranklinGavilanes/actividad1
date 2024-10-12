@@ -7,6 +7,10 @@
 .centro {
     text-align: center;
 }
+body {
+	background-color: rgb(208, 213, 142);
+    padding: 20px;
+}
 /* MENU DE NAVEGACION */
 nav {
 	background-color: white;
