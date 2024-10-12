@@ -7,3 +7,20 @@
 .centro {
     text-align: center;
 }
+/* MENU DE NAVEGACION */
+nav {
+	background-color: white;
+	color: white;
+}
+nav a {
+	color: black;
+	text-decoration:none;
+	padding:10px;
+}
+nav li{
+	display: inline; 
+	font-size: 30px;
+}
+nav ul   {
+	text-align: center;
+}
