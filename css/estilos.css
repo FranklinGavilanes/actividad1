@@ -28,6 +28,39 @@ nav li{
 nav ul   {
 	text-align: center;
 }
+/* CONTENIDO - CONTACTOS */
+
+form {
+    width: 400px;
+	padding: 20px;
+	margin: auto;
+	border-radius: 5px;
+	border: 3px solid #ddd;
+	
+}
+.button {
+  background-color: #bce791;
+  border: none;
+    border-radius: 12px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: auto;
+}
+textarea {
+    border: 2px solid black;
+    width: 402px;
+    height: 120;
+
+}
+input {
+	width: 80%;
+	padding: 8px;
+	margin-bottom: 12px;
+    border: 2px solid black;
+}
 /* PIE */
 footer {
 	background-color: white;
@@ -35,4 +68,5 @@ footer {
 	width: 100%;
 	color: black;
 	padding:5px;
+    margin-top: 20px;
 }
