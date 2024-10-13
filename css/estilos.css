@@ -67,6 +67,10 @@ input {
 	display: inline-block;
 }
 
+.contenido-imagen{
+	display: flex;
+    justify-content: center;
+}
 .parrafo1 { 
 	padding: 10px;
 	float: left;
@@ -85,7 +89,13 @@ input {
 	font-style: italic;
 }
 
-
+.imagen { 
+    padding: 10px;
+	width: 45%;
+    height: 60%;
+	background: white;
+    margin: 20px;
+}
 
 /* PIE */
 footer {
