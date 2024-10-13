@@ -75,7 +75,7 @@ input {
 	padding: 10px;
 	float: left;
 	text-align: center;
-	width: 45%;
+	width: 35%;
 	background: white;
 	font-style: italic;
 }
@@ -84,7 +84,7 @@ input {
 	padding: 10px;
 	float: right;
 	text-align: center;
-	width: 45%;
+	width: 35%;
 	background: white;
 	font-style: italic;
 }
@@ -95,6 +95,15 @@ input {
     height: 60%;
 	background: white;
     margin: 20px;
+}
+
+aside {
+    width: 25%;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    font-style: italic;
+    background-color: white;
 }
 
 /* PIE */
