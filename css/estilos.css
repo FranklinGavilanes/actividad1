@@ -105,7 +105,16 @@ aside {
     font-style: italic;
     background-color: white;
 }
+/* CONTENIDO - CONTACTOS */
+.contenido-audio{
+	display: flex;
+    justify-content: center;
+    margin: 20px;
+}
 
+h1 {
+    text-align: center;
+}
 /* PIE */
 footer {
 	background-color: white;
