@@ -61,6 +61,32 @@ input {
 	margin-bottom: 12px;
     border: 2px solid black;
 }
+
+/* CONTENIDO - INDEX */
+.contenido-inicio{
+	display: inline-block;
+}
+
+.parrafo1 { 
+	padding: 10px;
+	float: left;
+	text-align: center;
+	width: 45%;
+	background: white;
+	font-style: italic;
+}
+
+.parrafo2 { 
+	padding: 10px;
+	float: right;
+	text-align: center;
+	width: 45%;
+	background: white;
+	font-style: italic;
+}
+
+
+
 /* PIE */
 footer {
 	background-color: white;
